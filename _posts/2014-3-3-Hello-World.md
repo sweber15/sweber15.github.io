@@ -1,10 +1,7 @@
 ---
-layout: post
-title: You're up and running!
+layout: Blog #1 
+title: I'm Trying my Best
 ---
+This is my attempt at DSCI 521. I am writing a post today to talk about how fun the MDS program is at UBC. It is definitely hard, especially if you haven't taken any programming before. I would recommend taking Python before starting the program. The other courses are okay, but you will learn something new everyday. UBC is also so far away that the commute can be difficult (and the most hated part). 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+All the best!
